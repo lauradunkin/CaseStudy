@@ -2,7 +2,7 @@
   {
     "Id": "00001",
     "ProductName": "Adult Perfect Weight Cat Food",
-    "GraphicName": "00001.jpg",
+	"GraphicName": "00001.png",
     "CostPrice": "12.00",
     "MSRP": "26.99",
     "QtyOnHand": "0",
@@ -13,7 +13,7 @@
   {
     "Id": "00002",
     "ProductName": "Adult Oral Care Cat Food",
-    "GraphicName": "00002.jpg",
+		"GraphicName": "00002.jpg",
     "CostPrice": "13.50",
     "MSRP": "31.99",
     "QtyOnHand": "35",
@@ -23,8 +23,8 @@
   },
   {
     "Id": "00003",
-    "ProductName": "Adult Oral Car Dog Food",
-    "GraphicName": "00003.jpg",
+    "ProductName": "Adult Oral Care Dog Food",
+	"GraphicName": "00003.jpg",
     "CostPrice": "12.00",
     "MSRP": "28.99",
     "QtyOnHand": "48",
@@ -35,7 +35,7 @@
   {
     "Id": "00004",
     "ProductName": "Adult Light Cat Food",
-    "GraphicName": "00004.jpg",
+	"GraphicName": "00004.jpg",
     "CostPrice": "11.00",
     "MSRP": "25.99",
     "QtyOnHand": "17",
@@ -46,7 +46,7 @@
   {
     "Id": "00005",
     "ProductName": "Adult Large Breed Dog Food",
-    "GraphicName": "00005.jpg",
+	"GraphicName": "00005.jpg",
     "CostPrice": "14.00",
     "MSRP": "33.99",
     "QtyOnHand": "45",
@@ -56,8 +56,8 @@
   },
   {
     "Id": "00006",
-    "ProductName": "Adult Grain Free  Salmon Dog Food",
-    "GraphicName": "00006.jpg",
+    "ProductName": "Adult Grain Free Salmon Dog Food",
+	"GraphicName": "00006.jpg",
     "CostPrice": "15.00",
     "MSRP": "36.99",
     "QtyOnHand": "35",
@@ -68,7 +68,7 @@
   {
     "Id": "00007",
     "ProductName": "Puppy Grain Free Chicken & Sweet Potato Dog Food",
-    "GraphicName": "00007.jpg",
+	"GraphicName": "00007.jpg",
     "CostPrice": "11.00",
     "MSRP": "31.99",
     "QtyOnHand": "46",
@@ -79,7 +79,7 @@
   {
     "Id": "00008",
     "ProductName": "Adult Purrfect Bistro Grain Free Chicken Cat Food",
-    "GraphicName": "00008.jpg",
+	"GraphicName": "00008.jpg",
     "CostPrice": "1.00",
     "MSRP": "2.35",
     "QtyOnHand": "256",
@@ -90,7 +90,7 @@
   {
     "Id": "00009",
     "ProductName": "Adult Vitamins & Minerals for All Breeds Dog Food",
-    "GraphicName": "00009.jpg",
+	"GraphicName": "00009.jpg",
     "CostPrice": "13.50",
     "MSRP": "27.99",
     "QtyOnHand": "29",
@@ -100,8 +100,8 @@
   },
   {
     "Id": "00010",
-    "ProductName": "Adult Real Chicken Wrt Dog Food",
-    "GraphicName": "00010.jpg",
+    "ProductName": "Adult Real Chicken Wet Dog Food",
+	"GraphicName": "00010.jpg",
     "CostPrice": "0.96",
     "MSRP": "2.50",
     "QtyOnHand": "317",
@@ -112,7 +112,7 @@
   {
     "Id": "00011",
     "ProductName": "Adult Fancy Feast Pate Wet Cat Food",
-    "GraphicName": "00011.jpg",
+	"GraphicName": "00011.jpg",
     "CostPrice": "0.45",
     "MSRP": "1.29",
     "QtyOnHand": "322",
@@ -123,7 +123,7 @@
   {
     "Id": "00012",
     "ProductName": "Adult ONE True Instinct Natural Dog Food",
-    "GraphicName": "00012.jpg",
+	"GraphicName": "00012.jpg",
     "CostPrice": "8.00",
     "MSRP": "19.98",
     "QtyOnHand": "67",
@@ -134,7 +134,7 @@
   {
     "Id": "00013",
     "ProductName": "Adult Friskies Pate Greatest Hits Cat Food",
-    "GraphicName": "00013.jpg",
+	"GraphicName": "00013.jpg",
     "CostPrice": "0.45",
     "MSRP": "1.19",
     "QtyOnHand": "412",
@@ -145,7 +145,7 @@
   {
     "Id": "00014",
     "ProductName": "Adult Dog Chow Dog Food",
-    "GraphicName": "00014.jpg",
+	"GraphicName": "00014.jpg",
     "CostPrice": "13.00",
     "MSRP": "29.98",
     "QtyOnHand": "36",
